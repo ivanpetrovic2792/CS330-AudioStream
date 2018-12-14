@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7C1502</color>
+    <color name="colorPrimaryDark">#7C1502</color>
+    <color name="textColorPrimary">#683f41</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonColor">#801A04</color>
+    <color name="btnTextColor">#ffffff</color>
+    <color name="buttonColor2">#C75203</color>
+    <color name="notifBar">#c4c3c3</color>
+</resources>
